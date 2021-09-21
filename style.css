@@ -142,6 +142,8 @@ footer a:visited {
 
 @media (max-width: 1024px) {
   footer a {
+    font-size: 0.8rem;
+    font-style: italic;
     bottom: auto;
     top: 0;
   }
